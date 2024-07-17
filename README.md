@@ -8,6 +8,7 @@ Daftar Disini https://t.me/CyberFinanceBot?start=cj1qemZMZEpaVkNTSUkmdT1yZWY=
 ```bash
 >> Auto Claim Mining
 >> Auto Upgrade Boost
+>> Auto Refresh Token
 >> Support Multi Akun
 ```
 
